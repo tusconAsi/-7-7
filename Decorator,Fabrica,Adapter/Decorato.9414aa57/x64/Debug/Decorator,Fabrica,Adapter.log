@@ -1,0 +1,199 @@
+﻿  Decorator,Fabrica,Adapter.cpp
+C:\Users\asile\source\repos\Decorator,Fabrica,Adapter\Frezerniy.h(5,25): error C2504: Stanok: не определен базовый класс
+  (компиляция исходного файла "Decorator,Fabrica,Adapter.cpp")
+  
+C:\Users\asile\source\repos\Decorator,Fabrica,Adapter\Frezerniy.h(10,9): error C3668: Frezerniy::get_info: метод со спецификатором переопределения "override" не переопределяет какие-либо методы базового класса
+  (компиляция исходного файла "Decorator,Fabrica,Adapter.cpp")
+  
+C:\Users\asile\source\repos\Decorator,Fabrica,Adapter\Frezerniy.h(13,7): error C3668: Frezerniy::set_attrs: метод со спецификатором переопределения "override" не переопределяет какие-либо методы базового класса
+  (компиляция исходного файла "Decorator,Fabrica,Adapter.cpp")
+  
+C:\Users\asile\source\repos\Decorator,Fabrica,Adapter\Frezerniy.h(17,7): error C3668: Frezerniy::query_info: метод со спецификатором переопределения "override" не переопределяет какие-либо методы базового класса
+  (компиляция исходного файла "Decorator,Fabrica,Adapter.cpp")
+  
+C:\Users\asile\source\repos\Decorator,Fabrica,Adapter\Svarochniy.h(5,27): error C2504: Stanok: не определен базовый класс
+  (компиляция исходного файла "Decorator,Fabrica,Adapter.cpp")
+  
+C:\Users\asile\source\repos\Decorator,Fabrica,Adapter\Svarochniy.h(10,9): error C3668: Svarochniy::get_info: метод со спецификатором переопределения "override" не переопределяет какие-либо методы базового класса
+  (компиляция исходного файла "Decorator,Fabrica,Adapter.cpp")
+  
+C:\Users\asile\source\repos\Decorator,Fabrica,Adapter\Svarochniy.h(13,7): error C3668: Svarochniy::set_attrs: метод со спецификатором переопределения "override" не переопределяет какие-либо методы базового класса
+  (компиляция исходного файла "Decorator,Fabrica,Adapter.cpp")
+  
+C:\Users\asile\source\repos\Decorator,Fabrica,Adapter\Svarochniy.h(17,7): error C3668: Svarochniy::query_info: метод со спецификатором переопределения "override" не переопределяет какие-либо методы базового класса
+  (компиляция исходного файла "Decorator,Fabrica,Adapter.cpp")
+  
+C:\Users\asile\source\repos\Decorator,Fabrica,Adapter\LentoPila.h(5,26): error C2504: Stanok: не определен базовый класс
+  (компиляция исходного файла "Decorator,Fabrica,Adapter.cpp")
+  
+C:\Users\asile\source\repos\Decorator,Fabrica,Adapter\LentoPila.h(10,9): error C3668: LentoPila::get_info: метод со спецификатором переопределения "override" не переопределяет какие-либо методы базового класса
+  (компиляция исходного файла "Decorator,Fabrica,Adapter.cpp")
+  
+C:\Users\asile\source\repos\Decorator,Fabrica,Adapter\LentoPila.h(13,7): error C3668: LentoPila::set_attrs: метод со спецификатором переопределения "override" не переопределяет какие-либо методы базового класса
+  (компиляция исходного файла "Decorator,Fabrica,Adapter.cpp")
+  
+C:\Users\asile\source\repos\Decorator,Fabrica,Adapter\LentoPila.h(17,7): error C3668: LentoPila::query_info: метод со спецификатором переопределения "override" не переопределяет какие-либо методы базового класса
+  (компиляция исходного файла "Decorator,Fabrica,Adapter.cpp")
+  
+C:\Users\asile\source\repos\Decorator,Fabrica,Adapter\Pescostruy.h(5,27): error C2504: Stanok: не определен базовый класс
+  (компиляция исходного файла "Decorator,Fabrica,Adapter.cpp")
+  
+C:\Users\asile\source\repos\Decorator,Fabrica,Adapter\Pescostruy.h(10,9): error C3668: PescoStruy::get_info: метод со спецификатором переопределения "override" не переопределяет какие-либо методы базового класса
+  (компиляция исходного файла "Decorator,Fabrica,Adapter.cpp")
+  
+C:\Users\asile\source\repos\Decorator,Fabrica,Adapter\Pescostruy.h(13,7): error C3668: PescoStruy::set_attrs: метод со спецификатором переопределения "override" не переопределяет какие-либо методы базового класса
+  (компиляция исходного файла "Decorator,Fabrica,Adapter.cpp")
+  
+C:\Users\asile\source\repos\Decorator,Fabrica,Adapter\Pescostruy.h(17,7): error C3668: PescoStruy::query_info: метод со спецификатором переопределения "override" не переопределяет какие-либо методы базового класса
+  (компиляция исходного файла "Decorator,Fabrica,Adapter.cpp")
+  
+C:\Users\asile\source\repos\Decorator,Fabrica,Adapter\Decorator,Fabrica,Adapter.cpp(6,7): error C2011: Stanok: переопределение типа "class"
+      C:\Users\asile\source\repos\Decorator,Fabrica,Adapter\Stanok.h(9,7):
+       см. объявление "Stanok"
+  
+C:\Users\asile\source\repos\Decorator,Fabrica,Adapter\Decorator,Fabrica,Adapter.cpp(28,37): error C2027: использование неопределенного типа "Stanok"
+      C:\Users\asile\source\repos\Decorator,Fabrica,Adapter\Stanok.h(9,7):
+       см. объявление "Stanok"
+  
+C:\Users\asile\source\repos\Decorator,Fabrica,Adapter\Decorator,Fabrica,Adapter.cpp(28,37): error C3861: create_stanok: идентификатор не найден
+C:\Users\asile\source\repos\Decorator,Fabrica,Adapter\Decorator,Fabrica,Adapter.cpp(29,9): error C2027: использование неопределенного типа "Stanok"
+      C:\Users\asile\source\repos\Decorator,Fabrica,Adapter\Stanok.h(9,7):
+       см. объявление "Stanok"
+  
+C:\Users\asile\source\repos\Decorator,Fabrica,Adapter\Decorator,Fabrica,Adapter.cpp(30,9): error C2027: использование неопределенного типа "Stanok"
+      C:\Users\asile\source\repos\Decorator,Fabrica,Adapter\Stanok.h(9,7):
+       см. объявление "Stanok"
+  
+C:\Users\asile\source\repos\Decorator,Fabrica,Adapter\Decorator,Fabrica,Adapter.cpp(32,30): error C2653: FabricaStancov: не является именем класса или пространства имен
+C:\Users\asile\source\repos\Decorator,Fabrica,Adapter\Decorator,Fabrica,Adapter.cpp(32,46): error C3861: create_stanok: идентификатор не найден
+C:\Users\asile\source\repos\Decorator,Fabrica,Adapter\Decorator,Fabrica,Adapter.cpp(33,9): error C2027: использование неопределенного типа "Stanok"
+      C:\Users\asile\source\repos\Decorator,Fabrica,Adapter\Stanok.h(9,7):
+       см. объявление "Stanok"
+  
+C:\Users\asile\source\repos\Decorator,Fabrica,Adapter\Decorator,Fabrica,Adapter.cpp(34,9): error C2027: использование неопределенного типа "Stanok"
+      C:\Users\asile\source\repos\Decorator,Fabrica,Adapter\Stanok.h(9,7):
+       см. объявление "Stanok"
+  
+C:\Users\asile\source\repos\Decorator,Fabrica,Adapter\Decorator,Fabrica,Adapter.cpp(36,30): error C2653: FabricaStancov: не является именем класса или пространства имен
+C:\Users\asile\source\repos\Decorator,Fabrica,Adapter\Decorator,Fabrica,Adapter.cpp(36,46): error C3861: create_stanok: идентификатор не найден
+C:\Users\asile\source\repos\Decorator,Fabrica,Adapter\Decorator,Fabrica,Adapter.cpp(37,9): error C2027: использование неопределенного типа "Stanok"
+      C:\Users\asile\source\repos\Decorator,Fabrica,Adapter\Stanok.h(9,7):
+       см. объявление "Stanok"
+  
+C:\Users\asile\source\repos\Decorator,Fabrica,Adapter\Decorator,Fabrica,Adapter.cpp(38,9): error C2027: использование неопределенного типа "Stanok"
+      C:\Users\asile\source\repos\Decorator,Fabrica,Adapter\Stanok.h(9,7):
+       см. объявление "Stanok"
+  
+C:\Users\asile\source\repos\Decorator,Fabrica,Adapter\Decorator,Fabrica,Adapter.cpp(40,29): error C2653: FabricaStancov: не является именем класса или пространства имен
+C:\Users\asile\source\repos\Decorator,Fabrica,Adapter\Decorator,Fabrica,Adapter.cpp(40,45): error C3861: create_stanok: идентификатор не найден
+C:\Users\asile\source\repos\Decorator,Fabrica,Adapter\Decorator,Fabrica,Adapter.cpp(41,9): error C2027: использование неопределенного типа "Stanok"
+      C:\Users\asile\source\repos\Decorator,Fabrica,Adapter\Stanok.h(9,7):
+       см. объявление "Stanok"
+  
+C:\Users\asile\source\repos\Decorator,Fabrica,Adapter\Decorator,Fabrica,Adapter.cpp(42,9): error C2027: использование неопределенного типа "Stanok"
+      C:\Users\asile\source\repos\Decorator,Fabrica,Adapter\Stanok.h(9,7):
+       см. объявление "Stanok"
+  
+C:\Users\asile\source\repos\Decorator,Fabrica,Adapter\Decorator,Fabrica,Adapter.cpp(44,9): warning C4150: удаление указателя на неполный тип "Stanok"; деструктор не вызван
+      C:\Users\asile\source\repos\Decorator,Fabrica,Adapter\Stanok.h(9,7):
+       см. объявление "Stanok"
+  
+C:\Users\asile\source\repos\Decorator,Fabrica,Adapter\Decorator,Fabrica,Adapter.cpp(45,9): warning C4150: удаление указателя на неполный тип "Stanok"; деструктор не вызван
+      C:\Users\asile\source\repos\Decorator,Fabrica,Adapter\Stanok.h(9,7):
+       см. объявление "Stanok"
+  
+C:\Users\asile\source\repos\Decorator,Fabrica,Adapter\Decorator,Fabrica,Adapter.cpp(46,9): warning C4150: удаление указателя на неполный тип "Stanok"; деструктор не вызван
+      C:\Users\asile\source\repos\Decorator,Fabrica,Adapter\Stanok.h(9,7):
+       см. объявление "Stanok"
+  
+C:\Users\asile\source\repos\Decorator,Fabrica,Adapter\Decorator,Fabrica,Adapter.cpp(47,9): warning C4150: удаление указателя на неполный тип "Stanok"; деструктор не вызван
+      C:\Users\asile\source\repos\Decorator,Fabrica,Adapter\Stanok.h(9,7):
+       см. объявление "Stanok"
+  
+  LentoPila.h
+C:\Users\asile\source\repos\Decorator,Fabrica,Adapter\Frezerniy.h(5,25): error C2504: Stanok: не определен базовый класс
+  (компиляция исходного файла "LentoPila.h")
+  
+C:\Users\asile\source\repos\Decorator,Fabrica,Adapter\Frezerniy.h(10,9): error C3668: Frezerniy::get_info: метод со спецификатором переопределения "override" не переопределяет какие-либо методы базового класса
+  (компиляция исходного файла "LentoPila.h")
+  
+C:\Users\asile\source\repos\Decorator,Fabrica,Adapter\Frezerniy.h(13,7): error C3668: Frezerniy::set_attrs: метод со спецификатором переопределения "override" не переопределяет какие-либо методы базового класса
+  (компиляция исходного файла "LentoPila.h")
+  
+C:\Users\asile\source\repos\Decorator,Fabrica,Adapter\Frezerniy.h(17,7): error C3668: Frezerniy::query_info: метод со спецификатором переопределения "override" не переопределяет какие-либо методы базового класса
+  (компиляция исходного файла "LentoPila.h")
+  
+C:\Users\asile\source\repos\Decorator,Fabrica,Adapter\Svarochniy.h(5,27): error C2504: Stanok: не определен базовый класс
+  (компиляция исходного файла "LentoPila.h")
+  
+C:\Users\asile\source\repos\Decorator,Fabrica,Adapter\Svarochniy.h(10,9): error C3668: Svarochniy::get_info: метод со спецификатором переопределения "override" не переопределяет какие-либо методы базового класса
+  (компиляция исходного файла "LentoPila.h")
+  
+C:\Users\asile\source\repos\Decorator,Fabrica,Adapter\Svarochniy.h(13,7): error C3668: Svarochniy::set_attrs: метод со спецификатором переопределения "override" не переопределяет какие-либо методы базового класса
+  (компиляция исходного файла "LentoPila.h")
+  
+C:\Users\asile\source\repos\Decorator,Fabrica,Adapter\Svarochniy.h(17,7): error C3668: Svarochniy::query_info: метод со спецификатором переопределения "override" не переопределяет какие-либо методы базового класса
+  (компиляция исходного файла "LentoPila.h")
+  
+C:\Users\asile\source\repos\Decorator,Fabrica,Adapter\Pescostruy.h(5,27): error C2504: Stanok: не определен базовый класс
+  (компиляция исходного файла "LentoPila.h")
+  
+C:\Users\asile\source\repos\Decorator,Fabrica,Adapter\Pescostruy.h(10,9): error C3668: PescoStruy::get_info: метод со спецификатором переопределения "override" не переопределяет какие-либо методы базового класса
+  (компиляция исходного файла "LentoPila.h")
+  
+C:\Users\asile\source\repos\Decorator,Fabrica,Adapter\Pescostruy.h(13,7): error C3668: PescoStruy::set_attrs: метод со спецификатором переопределения "override" не переопределяет какие-либо методы базового класса
+  (компиляция исходного файла "LentoPila.h")
+  
+C:\Users\asile\source\repos\Decorator,Fabrica,Adapter\Pescostruy.h(17,7): error C3668: PescoStruy::query_info: метод со спецификатором переопределения "override" не переопределяет какие-либо методы базового класса
+  (компиляция исходного файла "LentoPila.h")
+  
+  Stanok.h
+C:\Users\asile\source\repos\Decorator,Fabrica,Adapter\Frezerniy.h(5,25): error C2504: Stanok: не определен базовый класс
+  (компиляция исходного файла "Stanok.h")
+  
+C:\Users\asile\source\repos\Decorator,Fabrica,Adapter\Frezerniy.h(10,9): error C3668: Frezerniy::get_info: метод со спецификатором переопределения "override" не переопределяет какие-либо методы базового класса
+  (компиляция исходного файла "Stanok.h")
+  
+C:\Users\asile\source\repos\Decorator,Fabrica,Adapter\Frezerniy.h(13,7): error C3668: Frezerniy::set_attrs: метод со спецификатором переопределения "override" не переопределяет какие-либо методы базового класса
+  (компиляция исходного файла "Stanok.h")
+  
+C:\Users\asile\source\repos\Decorator,Fabrica,Adapter\Frezerniy.h(17,7): error C3668: Frezerniy::query_info: метод со спецификатором переопределения "override" не переопределяет какие-либо методы базового класса
+  (компиляция исходного файла "Stanok.h")
+  
+C:\Users\asile\source\repos\Decorator,Fabrica,Adapter\Svarochniy.h(5,27): error C2504: Stanok: не определен базовый класс
+  (компиляция исходного файла "Stanok.h")
+  
+C:\Users\asile\source\repos\Decorator,Fabrica,Adapter\Svarochniy.h(10,9): error C3668: Svarochniy::get_info: метод со спецификатором переопределения "override" не переопределяет какие-либо методы базового класса
+  (компиляция исходного файла "Stanok.h")
+  
+C:\Users\asile\source\repos\Decorator,Fabrica,Adapter\Svarochniy.h(13,7): error C3668: Svarochniy::set_attrs: метод со спецификатором переопределения "override" не переопределяет какие-либо методы базового класса
+  (компиляция исходного файла "Stanok.h")
+  
+C:\Users\asile\source\repos\Decorator,Fabrica,Adapter\Svarochniy.h(17,7): error C3668: Svarochniy::query_info: метод со спецификатором переопределения "override" не переопределяет какие-либо методы базового класса
+  (компиляция исходного файла "Stanok.h")
+  
+C:\Users\asile\source\repos\Decorator,Fabrica,Adapter\LentoPila.h(5,26): error C2504: Stanok: не определен базовый класс
+  (компиляция исходного файла "Stanok.h")
+  
+C:\Users\asile\source\repos\Decorator,Fabrica,Adapter\LentoPila.h(10,9): error C3668: LentoPila::get_info: метод со спецификатором переопределения "override" не переопределяет какие-либо методы базового класса
+  (компиляция исходного файла "Stanok.h")
+  
+C:\Users\asile\source\repos\Decorator,Fabrica,Adapter\LentoPila.h(13,7): error C3668: LentoPila::set_attrs: метод со спецификатором переопределения "override" не переопределяет какие-либо методы базового класса
+  (компиляция исходного файла "Stanok.h")
+  
+C:\Users\asile\source\repos\Decorator,Fabrica,Adapter\LentoPila.h(17,7): error C3668: LentoPila::query_info: метод со спецификатором переопределения "override" не переопределяет какие-либо методы базового класса
+  (компиляция исходного файла "Stanok.h")
+  
+C:\Users\asile\source\repos\Decorator,Fabrica,Adapter\Pescostruy.h(5,27): error C2504: Stanok: не определен базовый класс
+  (компиляция исходного файла "Stanok.h")
+  
+C:\Users\asile\source\repos\Decorator,Fabrica,Adapter\Pescostruy.h(10,9): error C3668: PescoStruy::get_info: метод со спецификатором переопределения "override" не переопределяет какие-либо методы базового класса
+  (компиляция исходного файла "Stanok.h")
+  
+C:\Users\asile\source\repos\Decorator,Fabrica,Adapter\Pescostruy.h(13,7): error C3668: PescoStruy::set_attrs: метод со спецификатором переопределения "override" не переопределяет какие-либо методы базового класса
+  (компиляция исходного файла "Stanok.h")
+  
+C:\Users\asile\source\repos\Decorator,Fabrica,Adapter\Pescostruy.h(17,7): error C3668: PescoStruy::query_info: метод со спецификатором переопределения "override" не переопределяет какие-либо методы базового класса
+  (компиляция исходного файла "Stanok.h")
+  
+  Создание кода...
